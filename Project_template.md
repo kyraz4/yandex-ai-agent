@@ -247,6 +247,10 @@ OLLAMA_SYSTEM = (
 ## Примеры ответов:
 
 [Положительные ответы](./success_examples.png)
+
 [Кейсы "Я не знавю"](./unknown_examples.png)
+
 [Кейсы "Заблокирован подозрительный чанк"](./safety_test.png)
+
 [Кейс спрашиваем сначала по актуальному лору, потом по оригинальному](./success_and_unknown_examples.png)
+
