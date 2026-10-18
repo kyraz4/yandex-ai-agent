@@ -1,5 +1,6 @@
 # yandex-ai-agent
 
+
 ## 1. Требования
 
 - **Python 3.12** или **3.13**. Не используйте Python 3.15 — для него ещё нет стабильного `torch`, и `sentence-transformers` не установится.
@@ -55,4 +56,13 @@ ollama list | grep qwen2.5
 
 # Запустить бота
 python rag_bot.py
+```
+
+### Запуск через Docker (альтернатива локальному venv)
+
+```bash
+docker compose build
+docker compose up -d ollama
+docker exec -it ollama ollama pull qwen2.5:1.5b
+docker compose run --rm bot
 ```

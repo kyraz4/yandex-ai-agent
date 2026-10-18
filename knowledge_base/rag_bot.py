@@ -5,6 +5,7 @@ Retrieval: FAISS + all-MiniLM-L6-v2.
 LLM: локальная Qwen2.5-1.5B через Ollama.
 """
 
+import os
 import json
 import re
 from pathlib import Path
@@ -13,10 +14,11 @@ import faiss
 import requests
 from sentence_transformers import SentenceTransformer
 
+
 # ─── Конфигурация ─────────────────────────────────────────────────────────────
 INDEX_DIR = Path("vector_index")
 EMBED_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
-OLLAMA_URL = "http://localhost:11434/api/generate"
+OLLAMA_URL = os.getenv("OLLAMA_HOST", "http://localhost:11434") + "/api/generate"
 OLLAMA_MODEL = "qwen2.5:1.5b"
 TOP_K = 3
 SCORE_THRESHOLD = 0.25
