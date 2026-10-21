@@ -1,0 +1,26 @@
+services:
+  ollama:
+    image: ollama/ollama:latest
+    container_name: ollama
+    ports:
+      - "11434:11434"
+    volumes:
+      - ollama_data:/root/.ollama
+
+  bot:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: rag_bot
+    depends_on:
+      - ollama
+    environment:
+      - OLLAMA_HOST=http://ollama:11434
+    volumes:
+      - ./knowledge_base/prepared_data:/app/prepared_data:ro
+      - ./knowledge_base/vector_index:/app/vector_index:ro
+    stdin_open: true
+    tty: true
+
+volumes:
+  ollama_data:

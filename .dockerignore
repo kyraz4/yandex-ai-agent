@@ -1,0 +1,11 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.git/
+.gitignore
+.idea/
+.vscode/
+.DS_Store
+knowledge_base/raw_data/
+ollama_data/
