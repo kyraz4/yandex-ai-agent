@@ -45,8 +45,7 @@ curl http://localhost:11434/api/tags | grep qwen2.5
 Запуск бота: 
 
 ```bash
-cd /path/to/yandex-ai-agent/knowledge_base
-source ../.venv/bin/activate
+cd knowledge_base
 
 # (Опционально) Пересобрать индекс, если vector_index/ нет в репо
 python build_index.py

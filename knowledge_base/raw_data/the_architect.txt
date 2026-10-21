@@ -1,342 +1,198 @@
-The Architect
-
-Portrayed by
-
 Helmut Bakaitis
-
-Appearances
-
 The Matrix Reloaded
 The Matrix Revolutions
 The Matrix: Path of Neo
-
-Status
-
 Activated
-
-Purpose
-
-Designer and overseer of the 
+Designer and overseer of the
 Matrix
-
-Appearance
-
-Species
-
 Program
-
-Gender
-
 Male
-
-Eye color
-
 Blue
-
-Hair color
-
 White
-
-Affiliations
-
-Allies
-
 Agent Ash
 Agent Bird
 Agent Brown
- †
 Agent Davis
 Agent Finn
 Agent Gray
- †
 Agent Griffin
 Agent Jackson
- †
 Agent Johnson
- †
 Agent Jones
- †
 Agent Lewis
 Agent Pace
 Agent Skinner
- †
 Agent Smith
- (formerly)
+(formerly)
 Agent Thompson
- †
 Agent Torman
 Agent White
- †
 The Analyst
-
-Enemies
-
 Neo
 Agent Smith
-
-“
-
-I am The Architect. I created the 
-Matrix
-.
-”
-
-― The Architect to 
-Neo
-[src]
-
 The Architect
- is a highly specialized 
+is a highly specialized
 program
- of the 
+of the
 Machine
- world, as well as the creator of the 
+world, as well as the creator of the
 Matrix
-. As the primary superintendent of the system, he is possibly a collective manifestation or perhaps 
+. As the primary superintendent of the system, he is possibly a collective manifestation or perhaps
 a virtual representation
- of the entire Machine mainframe. 
-
-History
-
-Constructing the 
+of the entire Machine mainframe.
+The Architect was constructed by other Machines to understand the nature of humans. He created
+the very first
 Matrix
- Prototypes
-
- 
- 
- 
- 
-The Architect surrounded by monitoring screens.
- 
- 
-
-The Architect was constructed by other Machines to understand the nature of humans. He created 
-the very first 
+as a utopia for the humans whose minds inhabited it, to keep them subdued so their body heat could be used as energy by the Machines. However, those human minds rejected this first attempt at a perfect world and so this
 Matrix
- as a utopia for the humans whose minds inhabited it, to keep them subdued so their body heat could be used as energy by the Machines. However, those human minds rejected this first attempt at a perfect world and so this 
-Matrix
- crashed. 
+crashed.
 A second attempt
- added "
+added "
 vulgarities
-" of human nature and a basic 
+of human nature and a basic
 cause and effect
 , but this beta was also a failure.
-
-The Architect turned to a more 
+The Architect turned to a more
 human intuitive program
- designed to include anthropological nature and psychology to create the framework of the subsequent 
+designed to include anthropological nature and psychology to create the framework of the subsequent
 Matrix
-. In the next iteration, the mechanism of 
+. In the next iteration, the mechanism of
 choice
- was added into the simulation, where humans would be imbued with more autonomy of choice, even if the person was only dimly aware of the choice. This iteration of the 
+was added into the simulation, where humans would be imbued with more autonomy of choice, even if the person was only dimly aware of the choice. This iteration of the
 Matrix
- succeeded, except that choice itself would persistently culminate in an inevitable "anomaly", which if left unchecked would ultimately decimate the system - causing humanity's extinction and with it the destruction of the Machines' only energy source.
-
-The Architect explained that the 
+succeeded, except that choice itself would persistently culminate in an inevitable "anomaly", which if left unchecked would ultimately decimate the system - causing humanity's extinction and with it the destruction of the Machines' only energy source.
+The Architect explained that the
 Matrix
- was not as perfect as he intended or expected. The choice-programming that stabilized the first iteration of the 
+was not as perfect as he intended or expected. The choice-programming that stabilized the first iteration of the
 Matrix
- inevitably also caused its destabilization. In approximately a hundred years' time, a 
+inevitably also caused its destabilization. In approximately a hundred years' time, a
 reload
- of the 
+of the
 Matrix
- would be required to stop the collapse and destruction of the system. There was also the matter of 
+would be required to stop the collapse and destruction of the system. There was also the matter of
 Zion
 , which could not be permitted to expand in population and eminence lest humanity became a threat to the Machines again.
-
-One significant 
+One significant
 anomaly
- appeared two-thirds into the 
+appeared two-thirds into the
 Matrix'
-s first cycle. A human was imbued with control of additional 
+s first cycle. A human was imbued with control of additional
 Matrix
- programming, and an intrinsic, metaphysical awareness of the 
+programming, and an intrinsic, metaphysical awareness of the
 Matrix
- that was derived from the 
+that was derived from the
 Source
-. The Architect attempted to remove this anomaly to no avail. However, he devised a means to coerce this human to return the critical Source code he carried for the eventual reloading of the 
+. The Architect attempted to remove this anomaly to no avail. However, he devised a means to coerce this human to return the critical Source code he carried for the eventual reloading of the
 Matrix
-.
-
-A New Matrix
-
-“
-
-Your life is the sum of a remainder of an unbalanced equation inherent to the programming of the 
-Matrix
-. You are the eventuality of an anomaly which, despite my sincerest efforts, I have been unable to eliminate from what is otherwise, a harmony of mathematical precision.
-”
-
-― The Architect explains the origins of The One to 
-Neo
-[src]
-
- 
- 
- 
- 
-Neo and The Architect discuss the purpose of The One
- 
- 
-
-Together with the 
+Together with the
 human intuitive program
-, the concept of the 
+, the concept of the
 Prophecy
- was formed. The intuitive program would relate this parable to members of the human resistance that periodically infiltrated the 
+was formed. The intuitive program would relate this parable to members of the human resistance that periodically infiltrated the
 Matrix
-, who began referring to the program as The Oracle. The Resistance would in turn pursue the Anomaly and help them to find The Architect. 
-
-In each of the first five cycles of the 
+, who began referring to the program as The Oracle. The Resistance would in turn pursue the Anomaly and help them to find The Architect.
+In each of the first five cycles of the
 Matrix
-, the Anomaly (known to humans as The One) would materialise within the 
+, the Anomaly (known to humans as The One) would materialise within the
 Matrix
- and eventually find The Architect in his hidden surveillance lair. There, The Architect (who is also constrained by the choice-programming within his own creation) presents The One with two doors of exit; one door leads to the Source, whilst the second door returns to the 
+and eventually find The Architect in his hidden surveillance lair. There, The Architect (who is also constrained by the choice-programming within his own creation) presents The One with two doors of exit; one door leads to the Source, whilst the second door returns to the
 Matrix
- simulation. The Architect tells Neo that even as they speak, Zion is faced with imminent destruction - "To be utterly and totally destroyed." He states that the function of The One is to save humanity, and the key is which door The One chooses to exit The Architects' lair.
-
-If The One does not choose the door to the Source, this will culminate in a catastrophic system crash of the 
+simulation. The Architect tells Neo that even as they speak, Zion is faced with imminent destruction - "To be utterly and totally destroyed." He states that the function of The One is to save humanity, and the key is which door The One chooses to exit The Architects' lair.
+If The One does not choose the door to the Source, this will culminate in a catastrophic system crash of the
 Matrix
-, resulting in the deaths of all humans connected to the system and thus the extinction of the human race, as Zion will also be decimated. The destruction will deprive the Machines of their main energy source, though The Architect explains that they'll be able to compensate for the loss. Choosing the door to the Source, however, will preserve the 
+, resulting in the deaths of all humans connected to the system and thus the extinction of the human race, as Zion will also be decimated. The destruction will deprive the Machines of their main energy source, though The Architect explains that they'll be able to compensate for the loss. Choosing the door to the Source, however, will preserve the
 Matrix
-. Everyone in Zion will still die, but, The Architect explains, The One will select seven males and sixteen females from the 
+. Everyone in Zion will still die, but, The Architect explains, The One will select seven males and sixteen females from the
 Matrix
- to repopulate and inaugurate Zion.
-
-In each of the previous iterations The One chose the door to the Source, reloading the 
+to repopulate and inaugurate Zion.
+In each of the previous iterations The One chose the door to the Source, reloading the
 Matrix
- to facilitate Zion's destruction and facilitating the city's repopulation and restoration for the next cycle.
-
-The Sixth One
-
- 
- 
- 
- 
- 
-The Architect
- speaks with 
-The Oracle
- of their 
-Truce
-.
- 
- 
-
-On the sixth iteration, 
+to facilitate Zion's destruction and facilitating the city's repopulation and restoration for the next cycle.
+On the sixth iteration,
 Neo
-, the sixth Anomaly, presents as anticipated before The Architect. The Architect is surprised that this One, unlike his predecessors, is quicker of thought. This sixth Anomaly has the same disposition for protecting humanity as his predecessors, but different to the previous Ones, has a intrinsic attachment to one human: a Zion resistance member named 
+, the sixth Anomaly, presents as anticipated before The Architect. The Architect is surprised that this One, unlike his predecessors, is quicker of thought. This sixth Anomaly has the same disposition for protecting humanity as his predecessors, but different to the previous Ones, has a intrinsic attachment to one human: a Zion resistance member named
 Trinity
-. The Architect gives Neo his usual speech and offers him the fateful choice, but intuits that - unlike the previous five incarnations of The One - Neo will not comply. He also implies that in the event that the Matrix undergoes a catastrophic crash that essentially renders humanity extinct, he and the rest of the machines will ultimately survive, if crippled, citing that "there are levels of survival [the machines] are prepared to accept." Neo leaves The Architect to save his love - presumably jeopardising the future of the 
+. The Architect gives Neo his usual speech and offers him the fateful choice, but intuits that - unlike the previous five incarnations of The One - Neo will not comply. He also implies that in the event that the Matrix undergoes a catastrophic crash that essentially renders humanity extinct, he and the rest of the machines will ultimately survive, if crippled, citing that "there are levels of survival [the machines] are prepared to accept." Neo leaves The Architect to save his love - presumably jeopardising the future of the
 Matrix
 . Before leaving, Neo implicitly threatens to deal with the Architect once he has saved Trinity, though the Architect calmly assures Neo that this meeting was in fact their last.
-
 The Oracle
- divulges more to Neo about The Architect at their final interaction. She explains that The Architect's objective is to balance the equations of the 
+divulges more to Neo about The Architect at their final interaction. She explains that The Architect's objective is to balance the equations of the
 Matrix
-, but her purpose is to 
+, but her purpose is to
 unbalance
- the same equations. She urges Neo to find the location of the Source in Machine City so as to save not only humanity, but also the Machine world. She tells Neo not to concern himself with The Architect's 'prediction' that Zion would be destroyed, as The Architect can't conceive of anything beyond equations of things meant for a purpose, which hampers his ability to see alternate possibilities.
-
-After Neo's destruction of 
+the same equations. She urges Neo to find the location of the Source in Machine City so as to save not only humanity, but also the Machine world. She tells Neo not to concern himself with The Architect's 'prediction' that Zion would be destroyed, as The Architect can't conceive of anything beyond equations of things meant for a purpose, which hampers his ability to see alternate possibilities.
+After Neo's destruction of
 Smith
-, the Machines recover Neo's body and successfully 
+, the Machines recover Neo's body and successfully
 reload
- the 
+the
 Matrix
-. The Machines honor the truce that Neo negotiated, withdrawing the attack of Zion to establish peace between the two worlds. The Architect meets with The Oracle and speaks of the "dangerous game" that she engaged in. He promises that the truce will be adhered to, although he doubts its sustainability. The Oracle asks him what will happen to those who want out of the 
+. The Machines honor the truce that Neo negotiated, withdrawing the attack of Zion to establish peace between the two worlds. The Architect meets with The Oracle and speaks of the "dangerous game" that she engaged in. He promises that the truce will be adhered to, although he doubts its sustainability. The Oracle asks him what will happen to those who want out of the
 Matrix
 , to which The Architect replies that they will be freed. The Oracle asks if she has his word, to which he replies, "What do you think I am? Human?", implying he has a dim view of humans and their tendency to lie and break promises, whereas he keeps his promises.
-
-Loss of power
-
-For decades the Architect kept his word: humans who wanted out of the Matrix were allowed to leave. However, this resulted in an eventual shortage of power sources as too many humans left the Matrix. The outcome of this was the 
+For decades the Architect kept his word: humans who wanted out of the Matrix were allowed to leave. However, this resulted in an eventual shortage of power sources as too many humans left the Matrix. The outcome of this was the
 Machine Civil War
- and the destruction of Zion in direct violation of the Truce. 
+and the destruction of Zion in direct violation of the Truce.
 The Analyst
- used this conflict to wrest control of the Matrix from the Architect, though the Architect's exact fate is not known.
-
-Sixty years after the Truce was first enacted, the Analyst told Neo that The Architect's version of the 
+used this conflict to wrest control of the Matrix from the Architect, though the Architect's exact fate is not known.
+Sixty years after the Truce was first enacted, the Analyst told Neo that The Architect's version of the
 Matrix
- was "all fussy facts and equations" because he loved precision and hated the human mind. As a result, The Architect never realized that humans don't care about facts, but rather about fiction and that the only world that matters is the one in their own minds.
-
-The Matrix Online
-
-The Architect appears as a leader of the 
+was "all fussy facts and equations" because he loved precision and hated the human mind. As a result, The Architect never realized that humans don't care about facts, but rather about fiction and that the only world that matters is the one in their own minds.
+The Architect appears as a leader of the
 Machinists
- in the 
+in the
 The Matrix Online
-. After finding out about the 
+. After finding out about the
 Zionites
-' construction of 
+construction of
 New Zion
 , The Architect promptly calls off the truce and would no longer accept freeing any more humans.
-
-Personality
-
-As a Machine created by Machines, when being confronted by Neo The Architect displayed little emotion. He was cold, analytical, logical, pragmatic and clearly possessed of an attitude of superiority. An exceptionally brilliant AI, The Architect was extremely intelligent as he was able to create the 
+As a Machine created by Machines, when being confronted by Neo The Architect displayed little emotion. He was cold, analytical, logical, pragmatic and clearly possessed of an attitude of superiority. An exceptionally brilliant AI, The Architect was extremely intelligent as he was able to create the
 Matrix
- and its predecessors. He infused it with the concept of cause and effect, and, eventually, choice (something which he is also bound by). However, despite his high intellect, The Architect was capable of making errors, as shown when the previous five Matrices failed. Although he displayed few emotions, The Architect did experience them, which is ironic considering his distaste for sentiments such as love. For instance, he expressed to Neo that he became gradually frustrated after the predecessors of the 
+and its predecessors. He infused it with the concept of cause and effect, and, eventually, choice (something which he is also bound by). However, despite his high intellect, The Architect was capable of making errors, as shown when the previous five Matrices failed. Although he displayed few emotions, The Architect did experience them, which is ironic considering his distaste for sentiments such as love. For instance, he expressed to Neo that he became gradually frustrated after the predecessors of the
 Matrix
- were all failures. The Architect was familiar with the concept of love; he understood that emotions overpowered logic and reason and he knew that Neo would save Trinity instead of Zion. On a similar note, when Neo points out that the entirety of humanity going extinct would cause the machines to die out, while he otherwise was emotionless when stating that "there are levels of survival which [the machines] are prepared to accept", his overall tone indicated he wasn't fond of that option. He viewed humanity more as pieces of the 
+were all failures. The Architect was familiar with the concept of love; he understood that emotions overpowered logic and reason and he knew that Neo would save Trinity instead of Zion. On a similar note, when Neo points out that the entirety of humanity going extinct would cause the machines to die out, while he otherwise was emotionless when stating that "there are levels of survival which [the machines] are prepared to accept", his overall tone indicated he wasn't fond of that option. He viewed humanity more as pieces of the
 Matrix
- program than as individuals and worked to ensure they integrated into the 
+program than as individuals and worked to ensure they integrated into the
 Matrix
-.
-
-He was capable of surprise as well: The Architect was intrigued that Neo appeared to be more quick-thinking than the Ones that preceded him. The Architect also showed signs of misanthropy, smirking in contempt (also an emotion) when Neo displayed hope in choosing the door to re-enter the 
+He was capable of surprise as well: The Architect was intrigued that Neo appeared to be more quick-thinking than the Ones that preceded him. The Architect also showed signs of misanthropy, smirking in contempt (also an emotion) when Neo displayed hope in choosing the door to re-enter the
 Matrix
 . And again as – near the end – he revealed his low opinion of humanity when asked by The Oracle if she had his word that he would honor the truce and he replied "What do you think I am? Human?", showing that for all his roboticism, he isn't immune to sarcasm.
-
-Symbolism
-
-In terms of role in the plot, he can be compared to the gnostic/platonic concept of the Demiurge, as he is ultimately responsible for the existence of the 
+In terms of role in the plot, he can be compared to the gnostic/platonic concept of the Demiurge, as he is ultimately responsible for the existence of the
 Matrix
 , the "fake reality" in which humanity is trapped.
-
-Likewise, in his white suit and beard, he may possibly be a depiction of a rather modern variation of the stereotypical Judeo-Christian God, which some gnostic sects interpret as being the identity of the Demiurge, as she pretends to be the highest being; the real God transcends the false reality and is incomprehensible to the human mind. 
+Likewise, in his white suit and beard, he may possibly be a depiction of a rather modern variation of the stereotypical Judeo-Christian God, which some gnostic sects interpret as being the identity of the Demiurge, as she pretends to be the highest being; the real God transcends the false reality and is incomprehensible to the human mind.
 Cornel West
-, the person who played 
+, the person who played
 Councillor West
-, and a source of inspiration for the Wachowskis via his 1982 book 
+, and a source of inspiration for the Wachowskis via his 1982 book
 Prophesy Deliverance
 , has implied that he was meant to represent the Judeo-Christian God of the New Testament, citing that The Architect scene was meant to be "a devastating critique/twist of salvation stories."
-
-Within Freemasonry, God is referred to as "the Great Architect", and is artistically depicted in a similar manner. As yet another religious connection, The Architect and the 
+Within Freemasonry, God is referred to as "the Great Architect", and is artistically depicted in a similar manner. As yet another religious connection, The Architect and the
 Oracle
- resemble the two Hindu deities Lord Brahma, (who is a male, corresponding with The Architect, and is usually also depicted with white or pale skin) and Kali Ma, the Goddess of Time (hence clairvoyance) and change. (Who corresponds with The Oracle, and is generally depicted as being jet black).
-
-Trivia
-
-The Architect's appearance is likely an homage to Sigmund Freud (who was considered by social psychologist Erich Fromm to be one of the "architects" of the modern age). He also resembles Vinton Cerf, who is one of the creators of the internet, 
+resemble the two Hindu deities Lord Brahma, (who is a male, corresponding with The Architect, and is usually also depicted with white or pale skin) and Kali Ma, the Goddess of Time (hence clairvoyance) and change. (Who corresponds with The Oracle, and is generally depicted as being jet black).
+The Architect's appearance is likely an homage to Sigmund Freud (who was considered by social psychologist Erich Fromm to be one of the "architects" of the modern age). He also resembles Vinton Cerf, who is one of the creators of the internet,
 Norbert Wiener
- a mathematician who is considered as the founder of 
+a mathematician who is considered as the founder of
 cybernetics
 , the science of communication and control theory, Andrew Carnegie, an 1800s steelworker and eventually the richest man in the world, and Ray Blanchard, a former sexologist who is known for his disputed research into gender identity disorders.
-
-Sean Connery was known to have turned down the role of The Architect for 
+Sean Connery was known to have turned down the role of The Architect for
 The Matrix
 , thus possibly causing the role to be moved from that film to the sequels instead.
-
-Given the presence of the Indian girl Sati and her parents at the end of the second film, it is likely that 
+Given the presence of the Indian girl Sati and her parents at the end of the second film, it is likely that
 the producers
- of the films either consciously intended this association, or at least knew about it.
-
-The scene where The Architect and Neo encounter each other was similar to the Patriots contacting Raiden in 
+of the films either consciously intended this association, or at least knew about it.
+The scene where The Architect and Neo encounter each other was similar to the Patriots contacting Raiden in
 Metal Gear Solid 2: Sons of Liberty
-, namely in that both were the ones who were responsible for the events in question, revealed the truth about what had occurred, and also attempted to entice Neo/Raiden into doing their bidding, although a notable difference is that The Architect, while mocking Neo for choosing Trinity over fulfilling his role as The One, nonetheless allowed him to do so without stopping him, while the Patriots forced Raiden to do their bidding by threatening to kill both Olga's child and his then-girlfriend Rosemary. As the producers of the movies and the producer of 
+, namely in that both were the ones who were responsible for the events in question, revealed the truth about what had occurred, and also attempted to entice Neo/Raiden into doing their bidding, although a notable difference is that The Architect, while mocking Neo for choosing Trinity over fulfilling his role as The One, nonetheless allowed him to do so without stopping him, while the Patriots forced Raiden to do their bidding by threatening to kill both Olga's child and his then-girlfriend Rosemary. As the producers of the movies and the producer of
 Metal Gear Solid 2
-, the Wachowskis and Hideo Kojima, respectively, were real life friends and the latter also admitted that elements from 
+, the Wachowskis and Hideo Kojima, respectively, were real life friends and the latter also admitted that elements from
 the first film
- inspired him to create 
+inspired him to create
 Metal Gear Solid 2
- with several of the same themes, it's likely that the similarities were deliberate.
-
-Ironically, the Patriots' overall plan of manipulating the masses via "fiction" disguised as truth and filtering it to keep them placated, and to a lesser extent, his outright relying on force on his opponents to have his way even if it violated promises resembled that of 
+with several of the same themes, it's likely that the similarities were deliberate.
+Ironically, the Patriots' overall plan of manipulating the masses via "fiction" disguised as truth and filtering it to keep them placated, and to a lesser extent, his outright relying on force on his opponents to have his way even if it violated promises resembled that of
 The Analyst
- from 
+from
 Resurrections
 , who usurped the Architect.
-
-Notes and references

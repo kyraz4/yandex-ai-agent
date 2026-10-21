@@ -254,3 +254,5 @@ OLLAMA_SYSTEM = (
 
 [Кейс спрашиваем сначала по актуальному лору, потом по оригинальному](./success_and_unknown_examples.png)
 
+[Кейс, где защита отключена](./unsafety_example.png)
+[Кейс, где защита отключена 2](./unsafety_example_2.png)

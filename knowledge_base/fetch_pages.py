@@ -80,11 +80,22 @@ def clean_html(html: str) -> str:
     # Удаляем служебные блоки, которые не несут полезного текста
     for selector in [
         "script", "style", "noscript",
-        ".mw-editsection",        # ссылки «править»
-        ".navbox", ".infobox",    # навигационные таблицы и карточки
-        ".toc", "#toc",           # оглавление
+        ".mw-editsection",         # ссылки «править»
+        ".navbox", ".infobox",     # навигационные таблицы и карточки
+        ".toc", "#toc",            # оглавление
         ".reference", ".references",
         "sup.reference",
+        "h1", "h2", "h3", "h4", "h5", "h6",  # заголовки секций
+        "figure", "figcaption",              # подписи к картинкам
+        ".thumb", ".thumbcaption",           # превью картинок
+        "table",                             # таблицы целиком (обычно шум)
+        ".mw-empty-elt",                     # пустые служебные элементы
+        ".mw-collapsible-toggle",
+        ".noprint",
+        ".metadata",
+        ".ambox", ".mbox",                   # плашки «статья неполная» и т.п.
+        ".quote", "blockquote",              # цитаты (часто дублируют текст)
+        ".mw-references-wrap",
     ]:
         for tag in soup.select(selector):
             tag.decompose()
@@ -93,8 +104,27 @@ def clean_html(html: str) -> str:
     text = soup.get_text(separator="\n")
     text = re.sub(r"\n{3,}", "\n\n", text)
     text = re.sub(r"[ \t]{2,}", " ", text)
-    return text.strip()
+    # сноски вида [1], [12], [citation needed]
+    text = re.sub(r"\[\d+\]", "", text)
+    text = re.sub(r"\[citation needed\]", "", text, flags=re.IGNORECASE)
+    # одиночные кавычки-«ёлочки» и висящие кавычки в начале/конце строк
+    text = re.sub(r'(?m)^["\'«»“”\s]+$', "", text)      # строка только из кавычек
+    text = re.sub(r'(?m)^["\'«»“”]\s*', "", text)        # кавычка в начале строки
+    text = re.sub(r'\s*["\'«»“”]$', "", text)            # кавычка в конце строки
+    # «мусорные» строки: пустые, из одного символа, из одних знаков препинания
+    lines = []
+    for line in text.split("\n"):
+        s = line.strip()
+        if not s:
+            continue
+        if len(s) <= 2 and not s.isalnum():
+            continue
+        if re.fullmatch(r"[\W_]+", s):   # только пунктуация/пробелы
+            continue
+        lines.append(s)
+    text = "\n".join(lines)
 
+    return text.strip()
 
 def fetch_page(title: str) -> str | None:
     """Запрашивает HTML страницы через action=parse и возвращает очищенный текст."""
